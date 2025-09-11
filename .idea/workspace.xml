@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68f123b7-d239-48d7-82e5-f5c91d6f5150" name="Changes" comment="daythree" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;duongstick&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/duongstick/algorithm&quot;,
+    &quot;accountId&quot;: &quot;e26c1c45-c1a7-41be-840f-76be52392a99&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2p3lokey0837isRlrQ05tb4xA2D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PartitionString.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.contest1307.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.twosum.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.codeium.enabled": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="PartitionString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PartitionString" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.Solution" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="contest1307" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.contest1307" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interview.main" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interview.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.test" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.contest1307" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.PartitionString" />
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Logical" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68f123b7-d239-48d7-82e5-f5c91d6f5150" name="Changes" comment="" />
+      <created>1732002817998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732002817998</updated>
+      <workItem from="1732002819055" duration="4997000" />
+      <workItem from="1732069088318" duration="1199000" />
+      <workItem from="1732155344845" duration="1200000" />
+      <workItem from="1732249548842" duration="3587000" />
+      <workItem from="1732329178028" duration="860000" />
+      <workItem from="1732502437158" duration="2928000" />
+      <workItem from="1733675706206" duration="1067000" />
+      <workItem from="1737211316029" duration="803000" />
+      <workItem from="1737270448440" duration="1951000" />
+      <workItem from="1737342533958" duration="610000" />
+      <workItem from="1737459286399" duration="1846000" />
+      <workItem from="1737518051750" duration="629000" />
+      <workItem from="1737645592927" duration="9000" />
+      <workItem from="1737774236136" duration="1796000" />
+      <workItem from="1739073202624" duration="1775000" />
+      <workItem from="1741094089100" duration="8000" />
+      <workItem from="1742093696223" duration="751000" />
+      <workItem from="1742226925707" duration="644000" />
+      <workItem from="1746932289163" duration="4425000" />
+      <workItem from="1747233666192" duration="1433000" />
+      <workItem from="1748957055560" duration="606000" />
+      <workItem from="1751166139609" duration="4048000" />
+      <workItem from="1751986495231" duration="1575000" />
+      <workItem from="1752315577942" duration="454000" />
+      <workItem from="1752316304212" duration="18000" />
+      <workItem from="1752340559328" duration="1451000" />
+      <workItem from="1752374309450" duration="11514000" />
+      <workItem from="1754315081768" duration="814000" />
+      <workItem from="1754793718537" duration="3556000" />
+      <workItem from="1755398528568" duration="3690000" />
+      <workItem from="1755878553686" duration="587000" />
+      <workItem from="1756050830384" duration="12000" />
+      <workItem from="1757342554243" duration="7170000" />
+      <workItem from="1757424783744" duration="5785000" />
+      <workItem from="1757508473192" duration="4288000" />
+      <workItem from="1757604708972" duration="521000" />
+    </task>
+    <task id="LOCAL-00001" summary="daytwo">
+      <option name="closed" value="true" />
+      <created>1757431259659</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757431259659</updated>
+    </task>
+    <task id="LOCAL-00002" summary="daythree">
+      <option name="closed" value="true" />
+      <created>1757519234334</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757519234334</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="daytwo" />
+    <MESSAGE value="daythree" />
+    <option name="LAST_COMMIT_MESSAGE" value="daythree" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
